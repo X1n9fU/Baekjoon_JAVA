@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Main_15725 {
-
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
         //언제풀지
